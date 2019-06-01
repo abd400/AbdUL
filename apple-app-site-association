@@ -1,1 +1,14 @@
-
+{
+    "activitycontinuation": {
+        "apps": ["SK2K6Q54V3.com.mobile.link.UL"]
+    },
+    "applinks": {
+        "apps": [],
+        "details": [
+                    {
+                        "appID": "SK2K6Q54V3.com.mobile.link.UL",
+                        "paths": [ "*" ]
+                    }
+                    ]
+    }
+}
